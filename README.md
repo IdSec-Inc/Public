@@ -1,5 +1,5 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)]()
-[![Minimum Supported PowerShell Version](https://img.shields.io/badge/PS-5.1-blue.svg)]
+[![Minimum Supported PowerShell Version](https://img.shields.io/badge/PS-5.1-blue.svg)]()
 
 ## Table of Contents
 - [Introduction](#introduction)

@@ -7,7 +7,8 @@
 - [Azure AD Connect](#Azure-AD-Connect)
 - [MIM](#MIM)
   - [Config](#config)
-    - [Create a Context specifying the Key Manually](#create-a-context-specifying-the-key-manually)
+    - [DCOM-config.ps1](#DCOM-config.ps1)
+    - [WMI-config.ps1](#WMI-config.ps1)
   - [Poc to prod](#poc-to-prod)
 ## Introduction
 

@@ -13,15 +13,14 @@
 
 ## MIM - Microsoft Identity Manager
 ### Config
+Scripts to configure MIM.
 Read the [Readme.md](https://github.com/git-mdumont/IdSec/blob/main/MIM/Config/README.md)
-* DCOM-Config.ps1
-* DCOM-Config.ps1WMI-Config.ps1
+
 
 ### Poc to prod
+Scripts to export poc/lab/dev to production environment.
 Read the [Readme.md](https://github.com/git-mdumont/IdSec/blob/main/MIM/Poc%20to%20Prod/README.md)
-* CommitChanges.ps1
-* Export-Config.ps1
-* SyncConfig.ps1
+
 
 ## Installation
 

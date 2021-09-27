@@ -22,9 +22,9 @@ Dec, 16, 2020 : Creation
 
 ## Credits
 
-Mathias Dumont (IdSec)
+Mathias Dumont
 
-Brad Turner (bturner@ensynch.com)
+Brad Turner
 
 ## License
 

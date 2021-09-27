@@ -7,8 +7,8 @@
 - [Azure AD Connect](#Azure-AD-Connect)
 - [MIM](#MIM)
   - [Config](#config)
-    - [DCOM-config.ps1](#DCOM-config.ps1)
-    - [WMI-config.ps1](#WMI-config.ps1)
+    - [DCOM-config.ps1](https://github.com/IdSec-Inc/Public/blob/master/MIM/Config/DCOM-config.ps1)
+    - [WMI-config.ps1](https://github.com/IdSec-Inc/Public/blob/master/MIM/Config/WMI-config.ps1)
   - [Poc to prod](#poc-to-prod)
 ## Introduction
 

@@ -3,12 +3,12 @@
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Getting Started](#getting-started)
-  - [Working with Contexts](#working-with-contexts)
+- [Azure AD](#Azure-AD)
+- [Azure AD Connect](#Azure-AD-Connect)
+- [MIM](#MIM)
+  - [Config](#config)
     - [Create a Context specifying the Key Manually](#create-a-context-specifying-the-key-manually)
-
+  - [Poc to prod](#poc-to-prod)
 ## Introduction
 
 ## Azure AD
@@ -18,7 +18,7 @@ Read the [Readme.md](https://github.com/IdSec-Inc/Public/blob/master/Azure%20AD/
 
 ## Azure AD Connect
 Read the [Readme.md](https://github.com/IdSec-Inc/Public/blob/master/Azure%20AD%20Connect/README.md)
-## MIM - Microsoft Identity Manager
+## MIM
 ### Config
 Scripts to configure MIM.
 Read the [Readme.md](https://github.com/IdSec-Inc/Public/blob/master/MIM/Config/README.md)

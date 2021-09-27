@@ -11,18 +11,24 @@
 
 ## Introduction
 
+## Azure AD
+### Count objects
+Scripts to estimate number of objects.
+Read the [Readme.md](https://github.com/IdSec-Inc/Public/blob/main/Azure%20AD/Count%20Objects/README.md)
+
+## Azure AD Connect
+
 ## MIM - Microsoft Identity Manager
 ### Config
 Scripts to configure MIM.
-Read the [Readme.md](https://github.com/git-mdumont/IdSec/blob/main/MIM/Config/README.md)
-
+Read the [Readme.md](https://github.com/IdSec-Inc/Public/blob/main/MIM/Config/README.md)
 
 ### Poc to prod
 Scripts to export poc/lab/dev to production environment.
-Read the [Readme.md](https://github.com/git-mdumont/IdSec/blob/main/MIM/Poc%20to%20Prod/README.md)
+Read the [Readme.md](https://github.com/IdSec-Inc/Public/blob/main/MIM/Poc%20to%20Prod/README.md)
 
 
-## Installation
+
 
 ## Getting Started
 ### Working with Contexts

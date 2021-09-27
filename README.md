@@ -11,8 +11,11 @@
 
 ## Introduction
 
-## Microsoft Identity Manager
-### Config
+## MIM - Microsoft Identity Manager
+### Config (https://github.com/git-mdumont/IdSec/blob/main/MIM/Config/README.md)
+* DCOM-Config.ps1
+* DCOM-Config.ps1WMI-Config.ps1
+
 ### Poc to prod
 
 ## Installation

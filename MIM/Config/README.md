@@ -7,23 +7,24 @@ These scripts configure DCOM and WMI components for MIM.
 * Configure DCOM configuration for MIM.
 * Configure WMI configuration for MIM.
 
-## Current Version
-### DCOM
+## DCOM
+### Current Version
 **Version: 0.3**
+
+### History
+- Dec 16, 2020 : Creation
+
+### Using the script
+DCOM-Config.ps1 -Principal "DOMAIN\<group or username>" -Computers ('server1', 'server2')
 
 ### Current Version
 **Version: 0.3**
 
-## Using the script
-### DCOM
-DCOM-Config.ps1 -Principal "DOMAIN\<group or username>" -Computers ('server1', 'server2')
-
-### WMI
+### Using the script
 WMI-Config.ps1 -Principal "DOMAIN\<group or username>" -Computers ('server1', 'server2')
 
-## History
-
-Dec, 16, 2020 : Creation
+### History
+- Dec 16, 2020 : Creation
 
 ## Credits
 

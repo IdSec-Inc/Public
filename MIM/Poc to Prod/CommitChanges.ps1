@@ -21,6 +21,9 @@
     PS C:\> CommitChanges.ps1 -Type "policy" -undone -Uri "http://servername:5725"
 
 # Based on this script https://docs.microsoft.com/en-us/previous-versions/mim/ff400277(v=ws.10)?redirectedfrom=MSDN
+
+#### Script Version ####
+# Sept 17 2020 - 0.1 - Script creation
 #>
 Param (
     [Parameter(Mandatory = $false)][string]$Uri,

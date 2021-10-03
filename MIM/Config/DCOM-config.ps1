@@ -17,7 +17,7 @@ Created by Mathias DUMONT - @IdSec Inc
 # http://unlockpowershell.wordpress.com/2009/11/20/script-remote-dcom-wmi-access-for-a-domain-user/
 
 #### Script Version ####
-# 17/12/2020 - Rev0.1 - Script creation
+# Dec 17 2020 - 0.1 - Script creation
 #>
 Param( 
 	[string]$Principal = $(throw "`nMissing -Principal DOMAIN\MIM PasswordSet"), 

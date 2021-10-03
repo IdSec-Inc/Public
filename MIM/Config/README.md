@@ -17,14 +17,16 @@ These scripts configure DCOM and WMI components for MIM.
 ### Using the script
 DCOM-Config.ps1 -Principal "DOMAIN\<group or username>" -Computers ('server1', 'server2')
 
+## WMI
 ### Current Version
 **Version: 0.3**
+
+### History
+- Dec 16, 2020 : Creation
 
 ### Using the script
 WMI-Config.ps1 -Principal "DOMAIN\<group or username>" -Computers ('server1', 'server2')
 
-### History
-- Dec 16, 2020 : Creation
 
 ## Credits
 

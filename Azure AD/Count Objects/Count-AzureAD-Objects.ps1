@@ -15,10 +15,8 @@ PS :\> Count-AzureAD-Objects.ps1
 A prompt will be appear
 
 .NOTES
-Created by Mathias DUMONT - @IdSec Inc and Pierre - Microsoft
+Created by Mathias DUMONT - @IdSec Inc
 
-#### Script Version ####
-# 24/03/2020 - Rev0.1 - Script creation
 #>
 Param(
     [Switch]$CurrentCredential

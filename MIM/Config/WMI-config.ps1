@@ -1,5 +1,4 @@
 ﻿<#
-
 .SYNOPSIS
 WMI permission for MIM
 
@@ -20,9 +19,9 @@ Created by Mathias DUMONT - @IdSec Inc
 #### Script Version ####
 # 17/12/2020 - Rev0.1 - Script creation
 #>
-PARAM(
-	[string]$Principal = $(throw "`nMissing -Principal DOMAIN\FIM PasswordSet"), 
-	$Computers = $(throw "`nMissing -Computers ('fimnode01','fimnode02')"))	
+Param (
+[string]$Principal = $(throw "`nMissing -Principal DOMAIN\MIM PasswordSet"), 
+$Computers = $(throw "`nMissing -Computers ('mimserver1','mimserver1')"))
 
 # USAGE: 
 # 

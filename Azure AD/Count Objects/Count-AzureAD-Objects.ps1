@@ -15,7 +15,7 @@ PS :\> Count-AzureAD-Objects.ps1
 A prompt will be appear
 
 .NOTES
-Created by Mathias DUMONT - @IdSec Inc
+Created by Mathias DUMONT
 
 #>
 Param(

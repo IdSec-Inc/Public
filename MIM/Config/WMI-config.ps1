@@ -9,7 +9,7 @@ Apply the good permission on WMI for MIM
 PS :\> WMI-Config.ps1 -Principal "DOMAIN\<group or username>" -Computers ('server1', 'server2')
 
 .NOTES
-Created by Mathias DUMONT - @IdSec Inc
+Created by Mathias DUMONT
 
 # Written by Brad Turner (bturner@ensynch.com)
 # Blog: http://www.identitychaos.com

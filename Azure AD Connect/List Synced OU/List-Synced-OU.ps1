@@ -1,9 +1,15 @@
 <# 
 .SYNOPSIS
-    Extract OU synced.
+Extract OU synced
+
+.DESCRIPTION
+Extract the Organizational Unit synced with Active Directory
 
 .EXAMPLE
-    PS C:\> List-Synced-OU.ps1 > OUs.log
+PS C:\> List-Synced-OU.ps1 > OUs.log
+
+.NOTES
+Created by Mathias DUMONT
 
 #>
 

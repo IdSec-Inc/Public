@@ -1,5 +1,7 @@
 # Configure Microsoft Identity Manager
 
+These scripts configure DCOM and WMI components for MIM.
+
 ## Project Goals
 
 * Configure DCOM configuration for MIM.

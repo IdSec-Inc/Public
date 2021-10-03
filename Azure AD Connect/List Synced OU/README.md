@@ -1,4 +1,4 @@
-# Azure AD Connect
+# List Synced OU
 
 This script extracts the Organizational Unit that are synced with Azure AD.
 

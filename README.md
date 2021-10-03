@@ -7,7 +7,7 @@
   - [Count Objects](#Count-Objects)
 - [Azure AD Connect](#Azure-AD-Connect)
   - [List Synced OU](#List-Synced-OU)
-    - [List-Synced-OU.ps1](https://github.com/IdSec-Inc/Public/blob/master/Azure AD Connect/List Synced OU/List-Synced-OU.ps1)
+    - [List-Synced-OU.ps1](https://github.com/IdSec-Inc/Public/blob/master/Azure%20AD%20Connect/List%20Synced%20OU/List-Synced-OU.ps1)
 - [MIM](#MIM)
   - [Config](#config)
     - [DCOM-config.ps1](https://github.com/IdSec-Inc/Public/blob/master/MIM/Config/DCOM-config.ps1)

@@ -42,7 +42,7 @@ Count-AzureAD-Objects.ps1
 
 ## History
 
-Dec, 10, 2020 : Creation
+Dec 10, 2020 : Creation
 
 ## Credits
 

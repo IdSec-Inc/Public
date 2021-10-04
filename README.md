@@ -15,6 +15,8 @@
 - [MIM](#MIM)
   - [Config](#config)
   - [Poc to prod](#poc-to-prod)
+- [Powershell](#Powershell)
+  - [Profile](#Profile)
 ## Introduction
 
 ## Azure

@@ -21,7 +21,13 @@ Scripts to estimate number of objects.
 Read the [Readme.md](https://github.com/IdSec-Inc/Public/blob/master/Azure%20AD/Count%20Objects/README.md)
 
 ## Azure AD Connect
+### List synced OU
+Script to list Organizational unit in AAD Connect
 Read the [Readme.md](https://github.com/IdSec-Inc/Public/blob/master/Azure%20AD%20Connect/README.md)
+## Cryptographic
+### Cipher
+Script to list cipher config
+Read the [Readme.md](https://github.com/IdSec-Inc/Public/blob/master/Cryptographic/Cipher/README.md)
 ## MIM
 ### Config
 Scripts to configure MIM.

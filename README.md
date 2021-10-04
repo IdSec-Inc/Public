@@ -17,6 +17,10 @@
   - [Poc to prod](#poc-to-prod)
 ## Introduction
 
+## Azure
+### Template ARM
+* [ADFS](https://github.com/IdSec-Inc/Public/blob/master/Azure/Template%20ARM/ADFS/README.txt)
+
 ## Azure AD
 ### Count objects
 Scripts to estimate number of objects.

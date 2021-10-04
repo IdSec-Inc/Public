@@ -24,17 +24,17 @@ Read the [Readme.md](https://github.com/IdSec-Inc/Public/blob/master/Azure%20AD/
 
 ## Azure AD Connect
 ### List synced OU
-Script to list Organizational unit in AAD Connect
+Script to list Organizational unit in AAD Connect.
 Read the [Readme.md](https://github.com/IdSec-Inc/Public/blob/master/Azure%20AD%20Connect/README.md)
 ## Cryptographic
 ### Cipher
-Script to list cipher config
+Script to list cipher config.
 Read the [Readme.md](https://github.com/IdSec-Inc/Public/blob/master/Cryptographic/Cipher/README.md)
 ## MIM
 ### Config
 Scripts to configure MIM.
 Read the [Readme.md](https://github.com/IdSec-Inc/Public/blob/master/MIM/Config/README.md)
-
+* [List-Synced-OU.ps1](https://github.com/IdSec-Inc/Public/blob/master/Azure%20AD%20Connect/List%20Synced%20OU/List-Synced-OU.ps1)
 ### Poc to prod
 Scripts to export poc/lab/dev to production environment.
 Read the [Readme.md](https://github.com/IdSec-Inc/Public/blob/master/MIM/Poc%20to%20Prod/README.md)

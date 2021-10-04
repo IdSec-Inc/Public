@@ -5,7 +5,7 @@
 - [Introduction](#introduction)
 - [Azure](#Azure)
   - [Template ARM](#Template-ARM)
-    - [ADFS](#ADFS)
+    - [ADFS]
 - [Azure AD](#Azure-AD)
   - [Count Objects](#Count-Objects)
 - [Azure AD Connect](#Azure-AD-Connect)

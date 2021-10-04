@@ -50,14 +50,17 @@ Read the [Readme.md](https://github.com/IdSec-Inc/Public/blob/master/MIM/Config/
 Scripts to export poc/lab/dev to production environment.
 Read the [Readme.md](https://github.com/IdSec-Inc/Public/blob/master/MIM/Poc%20to%20Prod/README.md)
 
+## Powershell
+### Profile
+* [Config.json](https://github.com/IdSec-Inc/Public/blob/master/MIM/Config/DCOM-config.ps1)
+* [Microsoft.Powershell-Profile.ps1](https://github.com/IdSec-Inc/Public/blob/master/MIM/Config/WMI-config.ps1)
+* [Powershell-Profile.psm1](https://github.com/IdSec-Inc/Public/blob/master/MIM/Config/WMI-config.ps1)
 
 ## Contributing
-
 If you wish to contribute to this project, please read the [Contributing.md](/.github/CONTRIBUTING.md)
 document first. We would be very grateful of any contributions.
 
 ## Cmdlets
-
 A list of Cmdlets in the _CosmosDB PowerShell module_ can be found by running the
 following PowerShell commands:
 
@@ -76,11 +79,9 @@ The details of the cmdlets contained in this module can also be
 found in the [wiki](https://github.com/PlagueHO/CosmosDB/wiki).
 
 ## Change Log
-
 For a list of changes to versions, see the [CHANGELOG.md](CHANGELOG.md) file.
 
 ## Links
-
 - [GitHub Repository](https://github.com/PlagueHO/CosmosDB/)
 - [Blog](https://dscottraynsford.wordpress.com/)
 

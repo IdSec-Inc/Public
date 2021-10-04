@@ -51,13 +51,6 @@ Scripts to export poc/lab/dev to production environment.
 Read the [Readme.md](https://github.com/IdSec-Inc/Public/blob/master/MIM/Poc%20to%20Prod/README.md)
 
 
-
-
-## Getting Started
-### Working with Contexts
-
-#### Create a Context specifying the Key Manually
-
 ## Contributing
 
 If you wish to contribute to this project, please read the [Contributing.md](/.github/CONTRIBUTING.md)

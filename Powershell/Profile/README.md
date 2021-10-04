@@ -37,12 +37,24 @@ Example : C:\Users\myprofile\Documents\WindowsPowershell\Modules\Powershell-Prof
 ## How to use
 ### Function LoadProfile
 To load your profile, execute "loadprofile" command let.
+### Cmdlets
+```PowerShell
+loadprofile
+```
 
 ### Function StartTranscript
 To start transcript. The transcript file will be under the path you specified in json file.
+### Cmdlets
+```PowerShell
+starttranscript
+```
 
 ### Function StopTranscript
 To stop transcript. The transcript file will be under the path you specified in json file.
+### Cmdlets
+```PowerShell
+stoptranscript
+```
 
 ## Credits
 Mathias Dumont

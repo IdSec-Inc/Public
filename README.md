@@ -7,13 +7,10 @@
   - [Count Objects](#Count-Objects)
 - [Azure AD Connect](#Azure-AD-Connect)
   - [List Synced OU](#List-Synced-OU)
-    - [List-Synced-OU.ps1](https://github.com/IdSec-Inc/Public/blob/master/Azure%20AD%20Connect/List%20Synced%20OU/List-Synced-OU.ps1)
 - [Cryptographic](#Cryptographic)
   - [Cipher](#Cipher)
 - [MIM](#MIM)
   - [Config](#config)
-    - [DCOM-config.ps1](https://github.com/IdSec-Inc/Public/blob/master/MIM/Config/DCOM-config.ps1)
-    - [WMI-config.ps1](https://github.com/IdSec-Inc/Public/blob/master/MIM/Config/WMI-config.ps1)
   - [Poc to prod](#poc-to-prod)
 ## Introduction
 
@@ -26,15 +23,20 @@ Read the [Readme.md](https://github.com/IdSec-Inc/Public/blob/master/Azure%20AD/
 ### List synced OU
 Script to list Organizational unit in AAD Connect.
 Read the [Readme.md](https://github.com/IdSec-Inc/Public/blob/master/Azure%20AD%20Connect/README.md)
+* [List-Synced-OU.ps1](https://github.com/IdSec-Inc/Public/blob/master/Azure%20AD%20Connect/List%20Synced%20OU/List-Synced-OU.ps1)
+
 ## Cryptographic
 ### Cipher
 Script to list cipher config.
 Read the [Readme.md](https://github.com/IdSec-Inc/Public/blob/master/Cryptographic/Cipher/README.md)
+
 ## MIM
 ### Config
 Scripts to configure MIM.
 Read the [Readme.md](https://github.com/IdSec-Inc/Public/blob/master/MIM/Config/README.md)
-* [List-Synced-OU.ps1](https://github.com/IdSec-Inc/Public/blob/master/Azure%20AD%20Connect/List%20Synced%20OU/List-Synced-OU.ps1)
+* [DCOM-config.ps1](https://github.com/IdSec-Inc/Public/blob/master/MIM/Config/DCOM-config.ps1)
+* [WMI-config.ps1](https://github.com/IdSec-Inc/Public/blob/master/MIM/Config/WMI-config.ps1)
+
 ### Poc to prod
 Scripts to export poc/lab/dev to production environment.
 Read the [Readme.md](https://github.com/IdSec-Inc/Public/blob/master/MIM/Poc%20to%20Prod/README.md)

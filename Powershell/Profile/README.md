@@ -73,12 +73,6 @@ To disconnect to EXO
 DisconnectEXO
 ```
 
-### Function DisconnectEXO
-To disconnect to EXO
-```PowerShell
-DisconnectEXO
-```
-
 ## Exchange
 ### Function Get-ModernAuth
 To disconnect to EXO

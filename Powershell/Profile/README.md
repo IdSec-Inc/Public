@@ -20,7 +20,6 @@ Example (PowerShell 7): C:\Users\myprofile\Documents\Powershell
 
 ### History
 - Sept 16, 2021: Creation
-- Dec 12, 2021: Add folder path for PowerShell 7 
 
 ### Using the script
 Copy this file to your Powershell profile path.
@@ -54,6 +53,49 @@ starttranscript
 To stop transcript. The transcript file will be under the path you specified in json file.
 ```PowerShell
 stoptranscript
+```
+
+### Function ConnectAAD
+To connect to AAD with your UPN.
+```PowerShell
+ConnectAAD
+```
+
+### Function ConnectEXO
+To connect to EXO.
+```PowerShell
+ConnectEXO
+```
+
+### Function DisconnectEXO
+To disconnect to EXO
+```PowerShell
+DisconnectEXO
+```
+
+### Function DisconnectEXO
+To disconnect to EXO
+```PowerShell
+DisconnectEXO
+```
+
+## Exchange
+### Function Get-ModernAuth
+To disconnect to EXO
+```PowerShell
+Get-ModernAuth
+```
+
+### Function Get-AuthPolicies
+To disconnect to EXO
+```PowerShell
+Get-AuthPolicies
+```
+
+### Function Disable-BasicAuth
+To disconnect to EXO
+```PowerShell
+Disable-BasicAuth
 ```
 
 ## Credits

@@ -11,14 +11,16 @@ The objective is to configure your terminal to keep in mind where you are connec
 ## Config.json
 Contains the path of transcript file
 Contains each profile you want to propose. For each profile, configure UPN, default path, privilege or role of account, color for this profile.
-Example : C:\Users\myprofile\Documents\WindowsPowershell.
+Example (PowerShell 5): C:\Users\myprofile\Documents\WindowsPowershell
+Example (PowerShell 7): C:\Users\myprofile\Documents\Powershell
 
 ## Microsoft.Powershell_Profile
 ### Current Version
 **Version: 0.1**
 
 ### History
-- Sept 16, 2021 : Creation
+- Sept 16, 2021: Creation
+- Dec 12, 2021: Add folder path for PowerShell 7 
 
 ### Using the script
 Copy this file to your Powershell profile path.
@@ -32,7 +34,8 @@ Copy this file to your Powershell profile path.
 
 ### Using the script
 Copy this file to a new folder named "Powershell-Profile" under module folder of your powershell profile.
-Example : C:\Users\myprofile\Documents\WindowsPowershell\Modules\Powershell-Profile.
+Example (PowerShell 5): C:\Users\myprofile\Documents\WindowsPowershell\Modules\Powershell-Profile.
+Example (PowerShell 7): C:\Users\myprofile\Documents\Powershell\Modules\Powershell-Profile.
 
 ## How to use
 ### Function LoadProfile

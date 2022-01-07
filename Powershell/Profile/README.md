@@ -1,6 +1,6 @@
 # Profile Management
 
-This is to configure a pwoershell profile. Select which one you want and enable transcript for it.
+This is to configure a PowerShell profile. Select which one you want and enable transcript for it.
 
 ## Project Goals
 The objective is to configure your terminal to keep in mind where you are connected.

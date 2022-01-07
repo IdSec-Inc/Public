@@ -1,6 +1,8 @@
 # Profile Management
 
 This is to configure a PowerShell profile. Select which one you want and enable transcript for it.
+<img width="363" alt="image" src="https://user-images.githubusercontent.com/71237527/148556370-7a1ff4ad-1e3a-41be-b664-b9cf1216a40d.png">
+
 
 ## Project Goals
 The objective is to configure your terminal to keep in mind where you are connected.

@@ -26,10 +26,11 @@ Copy this file to your Powershell profile path.
 
 ## Powershell-Profile.psm1
 ### Current Version
-**Version: 0.1**
+**Version: 0.2**
 
 ### History
-- Sept 16, 2021 : Creation
+- Sept 16, 2021: Creation
+- Dec 12, 2021: Add Exchange connection and functions for Exchange
 
 ### Using the script
 Copy this file to a new folder named "Powershell-Profile" under module folder of your powershell profile.

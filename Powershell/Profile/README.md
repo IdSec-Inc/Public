@@ -11,8 +11,8 @@ The objective is to configure your terminal to keep in mind where you are connec
 ## Config.json
 Contains the path of transcript file
 Contains each profile you want to propose. For each profile, configure UPN, default path, privilege or role of account, color for this profile.
-Example (PowerShell 5): C:\Users\myprofile\Documents\WindowsPowershell
-Example (PowerShell 7): C:\Users\myprofile\Documents\Powershell
+Example (PowerShell 5): C:\Users\myprofile\Documents\WindowsPowershell.
+Example (PowerShell 7): C:\Users\myprofile\Documents\Powershell.
 
 ## Microsoft.Powershell_Profile
 ### Current Version

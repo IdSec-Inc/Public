@@ -1,15 +1,24 @@
+[CmdletBinding()]
+Param (
+    [Switch]$SpecificUpn
+  )
+
 Function AddMyAccountAdminLocal {
     Param (
-        [Switch]$SpecificUpn 
+        [Parameter(Mandatory = $true)]
+        [string]$UserPrincipalName
     )
-    If ($SpecificUpn) {
-        $UPN = Read-Host "UserPrincipalName/Email:"
-    } Else {
-        $UPN = whoami /upn
-    }
     net localgroup "Administrators" /add "AzureAD\$UPN"
 
 }
 
-AddMyAccountAdminLocal
+# Retrieve UPN
+If ($SpecificUpn) {
+    $UPN = Read-Host "UserPrincipalName/Email:"
+} Else {
+    $UPN = whoami /upn
+}
+
+# Add user in Administrators local group
+AddMyAccountAdminLocal -UserPrincpalName $UPN
 

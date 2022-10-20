@@ -1,10 +1,15 @@
+Function AddMyAccountAdminLocal {
+    Param (
+        [Switch]$SpecificUpn 
+    )
+    If ($SpecificUpn) {
+        $UPN = Read-Host "UserPrincipalName/Email:"
+    } Else {
+        $UPN = whoami /$UPN
+    }
+    net localgroup "Administrators" /add "AzureAD\$UPN"
 
-Read-Host "UPN of the user"
-$Member = "AzureAD\"+$UPN
-try {
-    Add-LocalGroupMember -Group "Administrators" -Member $Member
 }
-catch {
-    {Write-Host "Something happends" -Foregroundcolor Red}
 
-}
+AddMyAccountAdminLocal
+

@@ -1,8 +1,3 @@
-[CmdletBinding()]
-Param (
-    [Switch]$SpecificUpn
-  )
-
 Function AddMyAccountAdminLocal {
     Param (
         [Parameter(Mandatory = $true)]
@@ -12,8 +7,10 @@ Function AddMyAccountAdminLocal {
 
 }
 
+
 # Retrieve UPN
-If ($SpecificUpn) {
+$SpecificUpn = Read-Host "Do you want to add specific user ? (Y/N)"
+If ($SpecificUpn -eq "Y") {
     $UPN = Read-Host "UserPrincipalName/Email:"
 } Else {
     $UPN = whoami /upn

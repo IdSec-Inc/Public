@@ -18,7 +18,7 @@ If ($SpecificUpn) {
 } Else {
     $UPN = whoami /upn
 }
-
+Write-Host "UPN: $UPN" -ForegroundColor Yellow
 # Add user in Administrators local group
 AddMyAccountAdminLocal -UserPrincpalName $UPN
 

@@ -7,7 +7,7 @@ Function AddMyAccountAdminLocal {
 
 }
 
-
+## Add user in Administrators local group
 # Retrieve UPN
 $SpecificUpn = Read-Host "Do you want to add specific user ? (Y/N)"
 If ($SpecificUpn -eq "Y") {
@@ -15,7 +15,4 @@ If ($SpecificUpn -eq "Y") {
 } Else {
     $UPN = whoami /upn
 }
-Write-Host "UPN: $UPN" -ForegroundColor Yellow
-# Add user in Administrators local group
 AddMyAccountAdminLocal -UserPrincipalName $UPN
-
